@@ -1,0 +1,11 @@
+12:52 PM 4/14/2021) enter product name <prompt>
+// Product List >> Laptop, Mobile, Smart Watch, Power Bank, Other
+   response >> null || "" >> messsage
+   response >>  out of list  >> message
+   response >> 
+         1) Laptop >> HP Spectre x360 14,Dell XPS 13. HP
+         2) Mobile >> SAMSUNG, APPLE, HUAWEI, NOKIA
+         3) Smart Watch >> Samsung Galaxy Watch , 
+         4) Power Bank >> Croma 10000 mAh, Ambrane 10000 mAh
+         5) Other >> enter product price <prompt>
+            response >> Currently, no product is available at this price. Please wait... We will let you know when any product is avaiable in our budget.
